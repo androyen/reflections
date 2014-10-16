@@ -5,3 +5,9 @@ Use version control
 Learn to track multiple files in commits
 
 Learn to use git diff to check the Git commit logs
+
+Learned Git checkout. Keep testing each commit to find the bug. Then do a git diff between commits to see what changed and caused the bug.
+
+Setting up the bash prompts.
+
+Testing changing the Terminal prompt
