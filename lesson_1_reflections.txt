@@ -3,3 +3,5 @@ Learn to use diff -  (old file name)  (new file name)
 Use version control
 
 Learn to track multiple files in commits
+
+Learn to use git diff to check the Git commit logs
